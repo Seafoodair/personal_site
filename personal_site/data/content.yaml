@@ -1,0 +1,125 @@
+BasicInfo:
+  FirstName: Gang
+  LastName: Wang
+  Photo: img/wanggang.png
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +13842077180
+    - Icon: fas fa-envelope
+      Info: 1910636@stu.neu.edu.cn
+    - Icon: fas fa-globe
+      Info: blog.csdn.net/zhuiyunzhugang
+    - Icon: fas fa-map-marker-alt
+      Info: 中国沈阳
+
+Profile: 对于未来，我给了三问。我能干什么？我适合干什么？对自己和他人有好的影响？对于逆境，我有三问。我想要摆脱吗？我该如何摆脱逆境？我实际行动了吗？对于生活，正如高晓松说的那样“生活不止眼前的苟且，还有诗和远方的田野”。
+
+Experience:
+  - Employer: 东北大学
+    Place: 中国辽宁
+    Positions:
+      - Title: 区块链方向
+        Date: May 2020 - Present
+        Details:
+          - 区块链的本质是什么？
+          - 区块链的瓶颈在哪里？
+          - 如何评价区块链系统的好坏？
+          - 区块链能用来干啥？
+        Badges: ['Python', 'Go', 'C', 'C++','Java']
+  - Employer: 东北大学
+    Place: 中国辽宁
+    Positions:
+      - Title: 数据挖掘
+        Date: Sep 2019 - May 2020
+        Details:
+          - OpenReview评审方式带来的影响
+          - 评审规则下公平公正性进行定量分析
+          - 数据挖掘与数据分析方法进行细粒度挖掘
+          - 为论文写作提供了一些有利的建议
+        PUBLICATIONS: What Have We Learned from OpenReview?(APWEB-WAIM 2021)
+        Badges: ['Python', 'HTML','CSS','PHP']
+  - Employer: 辽宁大学
+    Place: 中国辽宁
+    Positions:
+      - Title: 机器学习
+        Date: Oct 2016 - Jun 2019
+        Details:
+          - 机器学习的发展历程
+          - LeNet-5 GoogLeNet AlexNet VGG-16模型学习
+          - Theano Tensorflow Keras Caffe Pytorch框架学习
+          - 基于深度学习的锂电池褶皱检测方法的研究与实现
+        Badges: ['Python', 'MATLAB', 'C', 'C++']
+
+Education:
+  - Course: 东北大学计算机科学与工程学院（博士在读）
+    Place: 辽宁沈阳
+    Date: Sep 2019 - Present
+    Details: Specialised in Data Analysis & BlockChain
+  - Course: 辽宁大学信息学院(硕士)
+    Place: 辽宁沈阳
+    Date: Sep 2016 - Jun 2019
+    Details: Specialised in Deep Learning
+
+References:
+  - Name: 张岩峰教授
+    Relation: 东北大学
+    Contacts:
+    - Icon: fas fa-phone
+      Info: 024-83656110
+    - Icon: fas fa-envelope
+      Info: zhangyf@mail.neu.edu.cn
+    - Icon: fas fa-map-marker-alt
+      Info: 辽宁沈阳
+  - Name: 宫元九教授
+    Relation: 辽宁大学
+    Contacts:
+    - Icon: fas fa-phone
+      Info: 024-62202346
+    - Icon: fas fa-envelope
+      Info: gongyj@lnu.edu.cn
+    - Icon: fas fa-map-marker-alt
+      Info: 辽宁沈阳
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Go
+      - C
+      - C++
+      - JAVA
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Chinese
+    Level: Native
+  - Name: English
+    Level: CET-6
+
+Diplomas:
+  - 东北大学 (2019-)
+  - 台湾朝阳科技大学 (交换生)
+  - 辽宁大学 (2016-2019)
+
+Interests:
+  - 篮球
+  - 台球
+  - 高尔夫
+  - 骑行
+  - 旅游
+  - 美食
